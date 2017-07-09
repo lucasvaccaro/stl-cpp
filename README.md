@@ -1,10 +1,9 @@
 # STL C++
 
-Project developed in the Data Structures course (CISC220) / Fall 2015 / University of Delaware
-
-Collaborators:  
+**Collaborators:**  
 Christopher Reinhardt  
-Elton Khaemba
+Elton Khaemba  
+Lucas Vaccaro
 
 The following abstract data types:  
 - Set
